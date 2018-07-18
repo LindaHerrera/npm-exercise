@@ -1,0 +1,1 @@
+export const tellHello = name => console.log(`Hello ${name}`);
